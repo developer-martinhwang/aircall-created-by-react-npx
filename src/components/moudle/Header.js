@@ -52,7 +52,7 @@ const styles = {
       fontSize: "0.9em",
     },
     '& .PrivateTabIndicator-colorSecondary-13': {
-      backgroundColor: "#ff7c00",
+      backgroundColor: "#f44336",
       left: "0",
       width: "3em",
     }
